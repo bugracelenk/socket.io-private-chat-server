@@ -1,0 +1,12 @@
+{
+  "name": "chat_engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node chat_server.js"
+  },
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
